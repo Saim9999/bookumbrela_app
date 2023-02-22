@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "297309007019",
-    "project_id": "bookumbrella-3b3fe",
-    "storage_bucket": "bookumbrella-3b3fe.appspot.com"
+    "project_number": "313470642303",
+    "project_id": "bookumrela-app",
+    "storage_bucket": "bookumrela-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:297309007019:android:ac3109921aa7c2b56b5bee",
+        "mobilesdk_app_id": "1:313470642303:android:3f808f6ea04e92f9b7374a",
         "android_client_info": {
           "package_name": "com.example.book_umbrella_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "297309007019-c2g4rbht00mlrd33kunhss4gj7b5919r.apps.googleusercontent.com",
+          "client_id": "313470642303-v4l6c3rgkvmh4b48u7ln5sl3fsdihuv4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAL4vSuzvwkXNVHKpTskXF25ZMxFWztRqk"
+          "current_key": "AIzaSyBk53VOFWATeV5m60KNysoX2IkGXEIyMhk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "297309007019-c2g4rbht00mlrd33kunhss4gj7b5919r.apps.googleusercontent.com",
+              "client_id": "313470642303-v4l6c3rgkvmh4b48u7ln5sl3fsdihuv4.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
